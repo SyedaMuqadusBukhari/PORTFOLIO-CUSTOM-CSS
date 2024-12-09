@@ -9,7 +9,7 @@ const About = () => {
       </h2>
       <p className="about-text" data-aos="zoom-in-up">
         I am a student at GIAIC, pursuing a course in Artificial Intelligence, Web 3.0, & Metaverse.
-        Passionate about technology and constantly learning new skills to stay up-to-date with the latest innovations.
+        Passionate about technology and constantly learning new skills to stay up-to-date with the latest innovations this course from kamran tessori.
       </p>
     </div>
   );
